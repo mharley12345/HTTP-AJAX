@@ -1,0 +1,7 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Friends-App",
+  "main": "index.js",
+  "license": "MIT"
+}

@@ -12,40 +12,29 @@ function getNewId() {
 let friends = [
   {
     id: 1,
-    name: 'Ben',
+    name: 'Bill',
     age: 30,
-    email: 'ben@lambdaschool.com',
+    email: 'bill@noname.com',
   },
   {
     id: 2,
-    name: 'Austen',
+    name: 'Frank',
     age: 32,
-    email: 'austen@lambdaschool.com',
+    email: 'Frank@noname.com',
   },
   {
     id: 3,
-    name: 'Ryan',
+    name: 'Jim',
     age: 35,
-    email: 'ryan@lambdaschool.com',
+    email: 'Jim@noname.com',
   },
   {
     id: 4,
-    name: 'Sean',
+    name: 'Kelly',
     age: 35,
-    email: 'sean@lambdaschool.com',
+    email: 'kelly@noname.com',
   },
-  {
-    id: 5,
-    name: 'Michelle',
-    age: 67,
-    email: 'michelle@gmail.com',
-  },
-  {
-    id: 6,
-    name: 'Luis',
-    age: 47,
-    email: 'luis@lambdaschool.com',
-  },
+ 
 ];
 
 app.use(cors());
